@@ -43,6 +43,4 @@ public class TopAction {
 
 		return "top.jsp";
 	}
-	
-	//pull request
 }
